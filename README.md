@@ -1,5 +1,5 @@
 # spotify-replica
-I've built SPOTIFY! It has Full Sign in functionality&custom sign in page with the user's spotify account ,I fetched All my account's playlists using spotify API. It's Mobile Responsive and has a fast user experience, Screenshots below:
+I've built SPOTIFY! It has FULL Sign in functionality&custom sign in page with the user's spotify account ,It fetches all the user's playlists using spotify API. It's Mobile Responsive and has a fast user experience, Screenshots below:
 
 ![Alt text](https://user-images.githubusercontent.com/93687653/145636638-ff8bbe30-427e-4032-ba6d-4d0acfbb0a6c.png?raw=true "Screenshot")
 
